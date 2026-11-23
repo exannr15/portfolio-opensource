@@ -17,3 +17,6 @@ Saya ingin memahami cara kerja Git dan GitHub serta belajar berkontribusi dalam 
 
 ## Pengalaman Praktik
 Saya telah mempraktikkan penggunaan terminal Linux, membuat direktori, mengelola file, dan mengatur hak akses menggunakan perintah chmod.
+
+## Harapan
+Saya berharap dapat meningkatkan kemampuan dalam menggunakan Git dan GitHub serta memahami proses kolaborasi dalam proyek open source.
