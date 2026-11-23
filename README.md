@@ -14,3 +14,6 @@ Saya ingin memahami cara kerja Git dan GitHub serta belajar berkontribusi dalam 
 - Menggunakan Linux melalui terminal.
 - Mengelola proyek menggunakan Git.
 - Menyimpan dan berbagi kode melalui GitHub.
+
+## Pengalaman Praktik
+Saya telah mempraktikkan penggunaan terminal Linux, membuat direktori, mengelola file, dan mengatur hak akses menggunakan perintah chmod.
